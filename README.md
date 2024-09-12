@@ -20,3 +20,6 @@ To get started with OpenPrompt, you'll need Python 3.7 or later. You can install
 git clone https://github.com/a-paul1/OpenPrompt.git
 cd OpenPrompt
 pip install -r requirements.txt
+
+```
+![image](https://github.com/user-attachments/assets/25c8a4ea-f0a5-4df1-b3fc-dfa38380e206)
