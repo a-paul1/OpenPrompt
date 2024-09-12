@@ -14,9 +14,10 @@ OpenPrompt is an open-source, voice-activated teleprompter application designed 
 
 To get started with OpenPrompt, you'll need Python 3.7 or later. You can install the necessary dependencies with the following commands:
 
+![image](https://github.com/user-attachments/assets/3c58957d-7546-434c-92aa-dd187b3dfb6a)
+
+
 ```bash
 git clone https://github.com/a-paul1/OpenPrompt.git
 cd OpenPrompt
 pip install -r requirements.txt
-
-![image](https://github.com/user-attachments/assets/6da5979f-62c1-4123-8c90-6b9e74c62f4c)
