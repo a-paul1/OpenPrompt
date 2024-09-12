@@ -1,5 +1,7 @@
 # OpenPrompt
 
+![image](https://github.com/user-attachments/assets/60209c44-c11c-4cbc-a67c-3b08e8b300a6)
+
 OpenPrompt is an open-source, voice-activated teleprompter application designed to make public speaking, presentations, and video recordings easier and more efficient. Leveraging OpenAI's Whisper model, OpenPrompt listens to your voice and automatically scrolls the text on the screen as you speak, ensuring that you never lose your place during a presentation.
 
 ## Features
@@ -13,9 +15,6 @@ OpenPrompt is an open-source, voice-activated teleprompter application designed 
 ## Installation
 
 To get started with OpenPrompt, you'll need Python 3.7 or later. You can install the necessary dependencies with the following commands:
-
-![image](https://github.com/user-attachments/assets/3c58957d-7546-434c-92aa-dd187b3dfb6a)
-
 
 ```bash
 git clone https://github.com/a-paul1/OpenPrompt.git
