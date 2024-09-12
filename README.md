@@ -1,7 +1,5 @@
 # OpenPrompt
 
-![image](https://github.com/user-attachments/assets/60209c44-c11c-4cbc-a67c-3b08e8b300a6)
-
 OpenPrompt is an open-source, voice-activated teleprompter application designed to make public speaking, presentations, and video recordings easier and more efficient. Leveraging OpenAI's Whisper model, OpenPrompt listens to your voice and automatically scrolls the text on the screen as you speak, ensuring that you never lose your place during a presentation.
 
 ## Features
